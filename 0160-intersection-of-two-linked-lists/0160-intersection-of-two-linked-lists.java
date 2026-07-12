@@ -23,16 +23,16 @@ public class Solution {
             temp2=temp2.next;
             size2++;
         }
-        int size = size1 - size2;
+        
         temp1=headA;
         temp2=headB;
-        if(size>0){
-            for(int i=0;i<size;i++){
+        if(size1>size2){
+            for(int i=0;i<size1-size2;i++){
                 temp1=temp1.next;
             }
         }
         else{
-            for(int i=0;i<Math.abs(size);i++){
+            for(int i=0;i<size2-size1;i++){
                 temp2=temp2.next;
             }
         }
