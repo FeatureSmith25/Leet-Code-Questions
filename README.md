@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0024-swap-nodes-in-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
