@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/FeatureSmith25/Leet-Code-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Table
 |  |
 | ------- |
